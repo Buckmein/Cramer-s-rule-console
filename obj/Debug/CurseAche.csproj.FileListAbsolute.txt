@@ -1,0 +1,7 @@
+C:\Users\Buck\Desktop\CurseAche\bin\Debug\CurseAche.exe.config
+C:\Users\Buck\Desktop\CurseAche\bin\Debug\CurseAche.exe
+C:\Users\Buck\Desktop\CurseAche\bin\Debug\CurseAche.pdb
+C:\Users\Buck\Desktop\CurseAche\obj\Debug\CurseAche.csprojAssemblyReference.cache
+C:\Users\Buck\Desktop\CurseAche\obj\Debug\CurseAche.csproj.CoreCompileInputs.cache
+C:\Users\Buck\Desktop\CurseAche\obj\Debug\CurseAche.exe
+C:\Users\Buck\Desktop\CurseAche\obj\Debug\CurseAche.pdb
